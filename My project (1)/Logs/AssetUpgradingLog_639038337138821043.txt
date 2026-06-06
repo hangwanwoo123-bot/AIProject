@@ -1,0 +1,586 @@
+2026-01-12 오후 4:55:13
+Asset Upgrading
+---------------
+
+Creating new Sprite Library Assets
+Created a new SpriteLibrary with the data of Example. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/Common/Sprites/Example.spriteLib
+Created a new SpriteLibrary with the data of SpriteLibrary. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/Archer/SpriteLibrary.spriteLib
+Created a new SpriteLibrary with the data of SpriteLibrary. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/DarkWizard/SpriteLibrary.spriteLib
+Created a new SpriteLibrary with the data of SpriteLibrary. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/FireWizard/SpriteLibrary.spriteLib
+Created a new SpriteLibrary with the data of SpriteLibrary. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/Goblin/SpriteLibrary.spriteLib
+Created a new SpriteLibrary with the data of SpriteAsset. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/GoblinArcher/SpriteAsset.spriteLib
+Created a new SpriteLibrary with the data of SpriteLibrary. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/Knight/SpriteLibrary.spriteLib
+Created a new SpriteLibrary with the data of SpriteLibrary. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/Naked/SpriteLibrary.spriteLib
+Created a new SpriteLibrary with the data of SpriteAsset. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/Orc/SpriteAsset.spriteLib
+Created a new SpriteLibrary with the data of SpriteLibrary. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/Pirate/SpriteLibrary.spriteLib
+Created a new SpriteLibrary with the data of SpriteLibrary. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/Skeleton/SpriteLibrary.spriteLib
+Created a new SpriteLibrary with the data of SpriteLibrary. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/Spearman/SpriteLibrary.spriteLib
+Created a new SpriteLibrary with the data of SpriteLibrary. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/Thief/SpriteLibrary.spriteLib
+Created a new SpriteLibrary with the data of SpriteLibrary. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/Viking/SpriteLibrary.spriteLib
+Created a new SpriteLibrary with the data of SpriteLibrary. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/WhiteWizard/SpriteLibrary.spriteLib
+Created a new SpriteLibrary with the data of SpriteLibrary. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Monsters/Barrel/SpriteLibrary.spriteLib
+Created a new SpriteLibrary with the data of SpriteLibrary. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Monsters/Box/SpriteLibrary.spriteLib
+Created a new SpriteLibrary with the data of SpriteLibrary. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Monsters/Chest/SpriteLibrary.spriteLib
+Created a new SpriteLibrary with the data of SpriteLibrary. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Monsters/Hog/SpriteLibrary.spriteLib
+Created a new SpriteLibrary with the data of SpriteLibrary. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Monsters/Slug/SpriteLibrary.spriteLib
+Created a new SpriteLibrary with the data of SpriteLibrary. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Monsters/Troll/SpriteLibrary.spriteLib
+Created a new SpriteLibrary with the data of SpriteLibrary. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Monsters/Wolf/SpriteLibrary.spriteLib
+Created a new SpriteLibrary with the data of BlueDragon. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BossPack1/Dragon/BlueDragon.spriteLib
+Created a new SpriteLibrary with the data of GreenDragon. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BossPack1/Dragon/GreenDragon.spriteLib
+Created a new SpriteLibrary with the data of RedDragon. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BossPack1/Dragon/RedDragon.spriteLib
+Created a new SpriteLibrary with the data of GreenMegaPumpkin. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BossPack1/MegaPumpkin/GreenMegaPumpkin.spriteLib
+Created a new SpriteLibrary with the data of PurpleMegaPumpkin. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BossPack1/MegaPumpkin/PurpleMegaPumpkin.spriteLib
+Created a new SpriteLibrary with the data of YellowMegaPumpkin. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BossPack1/MegaPumpkin/YellowMegaPumpkin.spriteLib
+Created a new SpriteLibrary with the data of GreenOgre. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BossPack1/Ogre/GreenOgre.spriteLib
+Created a new SpriteLibrary with the data of PurpleOgre. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BossPack1/Ogre/PurpleOgre.spriteLib
+Created a new SpriteLibrary with the data of RedOgre. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BossPack1/Ogre/RedOgre.spriteLib
+Created a new SpriteLibrary with the data of BlueRex. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BossPack1/Rex/BlueRex.spriteLib
+Created a new SpriteLibrary with the data of GreenRex. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BossPack1/Rex/GreenRex.spriteLib
+Created a new SpriteLibrary with the data of RedRex. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BossPack1/Rex/RedRex.spriteLib
+Created a new SpriteLibrary with the data of BlackTroll. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BossPack1/Troll/BlackTroll.spriteLib
+Created a new SpriteLibrary with the data of BlueTroll. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BossPack1/Troll/BlueTroll.spriteLib
+Created a new SpriteLibrary with the data of GreenTroll. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BossPack1/Troll/GreenTroll.spriteLib
+Created a new SpriteLibrary with the data of BlackWerewolf. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BossPack1/Werewolf/BlackWerewolf.spriteLib
+Created a new SpriteLibrary with the data of BrownWerevolf. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BossPack1/Werewolf/BrownWerevolf.spriteLib
+Created a new SpriteLibrary with the data of RedWerevolf. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BossPack1/Werewolf/RedWerevolf.spriteLib
+Created a new SpriteLibrary with the data of Barrel. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BoxPack1/Barrel/Barrel.spriteLib
+Created a new SpriteLibrary with the data of Bookcase. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BoxPack1/Bookcase/Bookcase.spriteLib
+Created a new SpriteLibrary with the data of Bucket. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BoxPack1/Bucket/Bucket.spriteLib
+Created a new SpriteLibrary with the data of Coffin. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BoxPack1/Coffin/Coffin.spriteLib
+Created a new SpriteLibrary with the data of Explosives. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BoxPack1/Explosives/Explosives.spriteLib
+Created a new SpriteLibrary with the data of GoldenChestbox. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BoxPack1/GoldenChestbox/GoldenChestbox.spriteLib
+Created a new SpriteLibrary with the data of Jug. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BoxPack1/Jug/Jug.spriteLib
+Created a new SpriteLibrary with the data of LargeBarrel. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BoxPack1/LargeBarrel/LargeBarrel.spriteLib
+Created a new SpriteLibrary with the data of LargeBox. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BoxPack1/LargeBox/LargeBox.spriteLib
+Created a new SpriteLibrary with the data of MediumBox. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BoxPack1/MediumBox/MediumBox.spriteLib
+Created a new SpriteLibrary with the data of Mimic. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BoxPack1/Mimic/Mimic.spriteLib
+Created a new SpriteLibrary with the data of SilverChestbox. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BoxPack1/SilverChestbox/SilverChestbox.spriteLib
+Created a new SpriteLibrary with the data of SmallBox. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BoxPack1/SmallBox/SmallBox.spriteLib
+Created a new SpriteLibrary with the data of TombstoneA. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BoxPack1/TombstoneA/TombstoneA.spriteLib
+Created a new SpriteLibrary with the data of TombstoneB. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BoxPack1/TombstoneB/TombstoneB.spriteLib
+Created a new SpriteLibrary with the data of TombstoneC. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BoxPack1/TombstoneC/TombstoneC.spriteLib
+Created a new SpriteLibrary with the data of Urn. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BoxPack1/Urn/Urn.spriteLib
+Created a new SpriteLibrary with the data of Vase. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BoxPack1/Vase/Vase.spriteLib
+Created a new SpriteLibrary with the data of WoodenChestbox. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/BoxPack1/WoodenChestbox/WoodenChestbox.spriteLib
+Created a new SpriteLibrary with the data of PurpleBat. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Bat/PurpleBat.spriteLib
+Created a new SpriteLibrary with the data of BlackBear. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Bear/BlackBear.spriteLib
+Created a new SpriteLibrary with the data of BrownBear. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Bear/BrownBear.spriteLib
+Created a new SpriteLibrary with the data of YellowBee. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Bee/YellowBee.spriteLib
+Created a new SpriteLibrary with the data of BlackBoar. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Boar/BlackBoar.spriteLib
+Created a new SpriteLibrary with the data of BrownBoar. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Boar/BrownBoar.spriteLib
+Created a new SpriteLibrary with the data of BlueCrab. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Crab/BlueCrab.spriteLib
+Created a new SpriteLibrary with the data of RedCrab. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Crab/RedCrab.spriteLib
+Created a new SpriteLibrary with the data of GreenDuck. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Duck/GreenDuck.spriteLib
+Created a new SpriteLibrary with the data of YellowDuck. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Duck/YellowDuck.spriteLib
+Created a new SpriteLibrary with the data of GreenFlower. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Flower/GreenFlower.spriteLib
+Created a new SpriteLibrary with the data of GreenFrog. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Frog/GreenFrog.spriteLib
+Created a new SpriteLibrary with the data of RedFrog. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Frog/RedFrog.spriteLib
+Created a new SpriteLibrary with the data of BrownPig. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Pig/BrownPig.spriteLib
+Created a new SpriteLibrary with the data of PinkPig. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Pig/PinkPig.spriteLib
+Created a new SpriteLibrary with the data of BrownRat. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Rat/BrownRat.spriteLib
+Created a new SpriteLibrary with the data of GreyRat. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Rat/GreyRat.spriteLib
+Created a new SpriteLibrary with the data of RedScorpion. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Scorpion/RedScorpion.spriteLib
+Created a new SpriteLibrary with the data of PurpleSpider. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Spider/PurpleSpider.spriteLib
+Created a new SpriteLibrary with the data of RedSpider. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Spider/RedSpider.spriteLib
+Created a new SpriteLibrary with the data of BrownStump. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Stump/BrownStump.spriteLib
+Created a new SpriteLibrary with the data of DarkStump. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Stump/DarkStump.spriteLib
+Created a new SpriteLibrary with the data of GreenTortoise. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Tortoise/GreenTortoise.spriteLib
+Created a new SpriteLibrary with the data of BlackWolf. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Wolf/BlackWolf.spriteLib
+Created a new SpriteLibrary with the data of BlueWolf. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack1/Wolf/BlueWolf.spriteLib
+Created a new SpriteLibrary with the data of GreenBush. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Bush/GreenBush.spriteLib
+Created a new SpriteLibrary with the data of PurpleBush. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Bush/PurpleBush.spriteLib
+Created a new SpriteLibrary with the data of Deer. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Deer/Deer.spriteLib
+Created a new SpriteLibrary with the data of GoldenDemigrif. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Demigrif/GoldenDemigrif.spriteLib
+Created a new SpriteLibrary with the data of GreenDemigrif. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Demigrif/GreenDemigrif.spriteLib
+Created a new SpriteLibrary with the data of AbyssDog. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/HellDog/AbyssDog.spriteLib
+Created a new SpriteLibrary with the data of HellDog. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/HellDog/HellDog.spriteLib
+Created a new SpriteLibrary with the data of BloodyJelly. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Jelly/BloodyJelly.spriteLib
+Created a new SpriteLibrary with the data of GreenJelly. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Jelly/GreenJelly.spriteLib
+Created a new SpriteLibrary with the data of BlueManticora. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Manticora/BlueManticora.spriteLib
+Created a new SpriteLibrary with the data of RoyalManticora. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Manticora/RoyalManticora.spriteLib
+Created a new SpriteLibrary with the data of BrownMushroom. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Mushroom/BrownMushroom.spriteLib
+Created a new SpriteLibrary with the data of PurpleMushroom. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Mushroom/PurpleMushroom.spriteLib
+Created a new SpriteLibrary with the data of Pumpkin. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Pumpkin/Pumpkin.spriteLib
+Created a new SpriteLibrary with the data of FireSalamandra. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Salamandra/FireSalamandra.spriteLib
+Created a new SpriteLibrary with the data of GreenSalamandra. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Salamandra/GreenSalamandra.spriteLib
+Created a new SpriteLibrary with the data of GreenSnake. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Snake/GreenSnake.spriteLib
+Created a new SpriteLibrary with the data of YellowSnake. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Snake/YellowSnake.spriteLib
+Created a new SpriteLibrary with the data of BlackSpider. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Spider/BlackSpider.spriteLib
+Created a new SpriteLibrary with the data of BrownSpider. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Spider/BrownSpider.spriteLib
+Created a new SpriteLibrary with the data of BlueSpirit. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Spirit/BlueSpirit.spriteLib
+Created a new SpriteLibrary with the data of BrownSpirit. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Spirit/BrownSpirit.spriteLib
+Created a new SpriteLibrary with the data of BrownWolf. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Wolf/BrownWolf.spriteLib
+Created a new SpriteLibrary with the data of GreyWolf. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack2/Wolf/GreyWolf.spriteLib
+Created a new SpriteLibrary with the data of Beholder. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack3/Beholder/Beholder.spriteLib
+Created a new SpriteLibrary with the data of Bird. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack3/Bird/Bird.spriteLib
+Created a new SpriteLibrary with the data of Cube. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack3/Cube/Cube.spriteLib
+Created a new SpriteLibrary with the data of Demon. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack3/Demon/Demon.spriteLib
+Created a new SpriteLibrary with the data of EarthGolem. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack3/EarthGolem/EarthGolem.spriteLib
+Created a new SpriteLibrary with the data of Fairy. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack3/Fairy/Fairy.spriteLib
+Created a new SpriteLibrary with the data of FlameGolem. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack3/FlameGolem/FlameGolem.spriteLib
+Created a new SpriteLibrary with the data of FlyingEye. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack3/FlyingEye/FlyingEye.spriteLib
+Created a new SpriteLibrary with the data of IceGolem. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack3/IceGolem/IceGolem.spriteLib
+Created a new SpriteLibrary with the data of Squid. The new SpriteLibrary is located at: Assets/PixelFantasy/PixelMonsters/Pack3/Squid/Squid.spriteLib
+Created a new SpriteLibrary with the data of Player. The new SpriteLibrary is located at: Assets/Sprites/Player.spriteLib
+Created a new SpriteLibrary with the data of SpriteSheet. The new SpriteLibrary is located at: Assets/Sprites/SpriteSheet.spriteLib
+
+Re-assigning assets in components
+Scanning Assets/PixelFantasy/PixelMonsters/BossPack1/MegaPumpkin/GreenMegaPumpkin.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Bear/BlackBear.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/HeroesDemo.unity for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BossPack1/Troll/BlueTroll.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack3/IceGolem/IceGolem.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Spider/RedSpider.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BossPack1/Ogre/GreeenOgre.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack3/Demon/Demon.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Bush/GreenBush.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Flower/GreenFlower.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BossPack1/Troll/BlackTroll.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack3/FlyingEye/FlyingEye.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack3/Squid/Squid.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Deer/Deer.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Wolf/GreyWolf.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Boar/BlackBoar.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BoxPack1/Vase/Vase.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Wolf/BrownWolf.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Boar/BrownBoar.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Jelly/BloodyJelly.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Demigrif/GoldenDemigrif.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack3/Fairy/Fairy.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Pumpkin/Pumpkin.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Demigrif/GreenDemigrif.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Duck/YellowDuck.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Pig/PinkPig.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Bush/PurpleBush.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BoxPack1/Jug/Jug.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Spider/BrownSpider.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack3/Bird/Bird.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BossPack1/Rex/RedRex.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BossPack1/Werewolf/RedWerevolf.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Frog/GreenFrog.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BoxPack1/Barrel/Barrel.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BossPack1/Ogre/PurpleOgre.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Mushroom/PurpleMushroom.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BoxPack1/Bookcase/Bookcase.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BoxPack1/TombstoneB/TombstoneB.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BoxPack1/LargeBarrel/LargeBarrel.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Duck/GreenDuck.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Snake/GreenSnake.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack3/EarthGolem/EarthGolem.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BossPack1/MegaPumpkin/YellowMegaPumpkin.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Crab/RedCrab.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Spider/BlackSpider.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Bat/PurpleBat.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BossPack1/Werewolf/BlackWerewolf.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Scorpion/RedScorpion.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack3/Cube/Cube.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BossPack1/Ogre/RedOgre.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Salamandra/FireSalamandra.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Bee/YellowBee.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack3/Beholder/Beholder.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BoxPack1/Mimic/Mimic.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BoxPack1/LargeBox/LargeBox.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BossPack1/Dragon/GreenDragon.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/HellDog/HellDog.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Rat/BrownRat.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BoxPack1/SilverChestbox/SilverChestbox.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BoxPack1/TombstoneC/TombstoneC.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BossPack1/Werewolf/BrownWerewolf.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Frog/RedFrog.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BoxPack1/Urn/Urn.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BoxPack1/Coffin/Coffin.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/InanimateDemo.unity for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BossPack1/Troll/GreenTroll.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack3/FlameGolem/FlameGolem.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Bear/BrownBear.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Wolf/BlackWolf.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BoxPack1/MediumBox/MediumBox.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BoxPack1/WoodenChestbox/WoodenChestbox.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Manticora/BlueManticora.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Crab/BlueCrab.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BoxPack1/Explosives/Explosives.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Wolf/BlueWolf.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Manticora/RoyalManticora.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/HellDog/AbyssDog.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BossPack1/Rex/BlueRex.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BoxPack1/Bucket/Bucket.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Jelly/GreenJelly.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Snake/YellowSnake.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BoxPack1/GoldenChestbox/GoldenChestbox.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/MonstersDemo.unity for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Salamandra/GreenSalamandra.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BossPack1/Dragon/BlueDragon.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BoxPack1/SmallBox/SmallBox.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BossPack1/Rex/GreenRex.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Rat/GreyRat.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Spirit/BrownSpirit.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BoxPack1/TombstoneA/TombstoneA.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Stump/DarkStump.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Tortoise/GreenTortoise.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Spirit/BlueSpirit.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack2/Mushroom/BrownMushroom.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BossPack1/MegaPumpkin/PurpleMegaPumpkin.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Spider/PurpleSpider.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/BossPack1/Dragon/RedDragon.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Stump/BrownStump.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+Scanning Assets/PixelFantasy/PixelMonsters/Pack1/Pig/BrownPig.prefab for components with SpriteLibraryAsset references in need of reassignment.
+Updated the SpriteLibraryAsset reference in UnityEngine.U2D.Animation.SpriteLibrary on the GameObject Body
+
+Removing old Sprite Library Assets
+Deleting Assets/PixelFantasy/PixelHeroes/Common/Sprites/Example.asset from project
+Deleting Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/Archer/SpriteLibrary.asset from project
+Deleting Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/DarkWizard/SpriteLibrary.asset from project
+Deleting Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/FireWizard/SpriteLibrary.asset from project
+Deleting Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/Goblin/SpriteLibrary.asset from project
+Deleting Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/GoblinArcher/SpriteAsset.asset from project
+Deleting Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/Knight/SpriteLibrary.asset from project
+Deleting Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/Naked/SpriteLibrary.asset from project
+Deleting Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/Orc/SpriteAsset.asset from project
+Deleting Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/Pirate/SpriteLibrary.asset from project
+Deleting Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/Skeleton/SpriteLibrary.asset from project
+Deleting Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/Spearman/SpriteLibrary.asset from project
+Deleting Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/Thief/SpriteLibrary.asset from project
+Deleting Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/Viking/SpriteLibrary.asset from project
+Deleting Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Character/WhiteWizard/SpriteLibrary.asset from project
+Deleting Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Monsters/Barrel/SpriteLibrary.asset from project
+Deleting Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Monsters/Box/SpriteLibrary.asset from project
+Deleting Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Monsters/Chest/SpriteLibrary.asset from project
+Deleting Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Monsters/Hog/SpriteLibrary.asset from project
+Deleting Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Monsters/Slug/SpriteLibrary.asset from project
+Deleting Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Monsters/Troll/SpriteLibrary.asset from project
+Deleting Assets/PixelFantasy/PixelHeroes/FantasyHeroes/Bonus/Monsters/Wolf/SpriteLibrary.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BossPack1/Dragon/BlueDragon.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BossPack1/Dragon/GreenDragon.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BossPack1/Dragon/RedDragon.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BossPack1/MegaPumpkin/GreenMegaPumpkin.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BossPack1/MegaPumpkin/PurpleMegaPumpkin.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BossPack1/MegaPumpkin/YellowMegaPumpkin.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BossPack1/Ogre/GreenOgre.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BossPack1/Ogre/PurpleOgre.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BossPack1/Ogre/RedOgre.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BossPack1/Rex/BlueRex.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BossPack1/Rex/GreenRex.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BossPack1/Rex/RedRex.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BossPack1/Troll/BlackTroll.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BossPack1/Troll/BlueTroll.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BossPack1/Troll/GreenTroll.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BossPack1/Werewolf/BlackWerewolf.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BossPack1/Werewolf/BrownWerevolf.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BossPack1/Werewolf/RedWerevolf.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BoxPack1/Barrel/Barrel.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BoxPack1/Bookcase/Bookcase.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BoxPack1/Bucket/Bucket.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BoxPack1/Coffin/Coffin.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BoxPack1/Explosives/Explosives.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BoxPack1/GoldenChestbox/GoldenChestbox.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BoxPack1/Jug/Jug.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BoxPack1/LargeBarrel/LargeBarrel.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BoxPack1/LargeBox/LargeBox.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BoxPack1/MediumBox/MediumBox.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BoxPack1/Mimic/Mimic.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BoxPack1/SilverChestbox/SilverChestbox.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BoxPack1/SmallBox/SmallBox.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BoxPack1/TombstoneA/TombstoneA.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BoxPack1/TombstoneB/TombstoneB.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BoxPack1/TombstoneC/TombstoneC.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BoxPack1/Urn/Urn.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BoxPack1/Vase/Vase.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/BoxPack1/WoodenChestbox/WoodenChestbox.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Bat/PurpleBat.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Bear/BlackBear.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Bear/BrownBear.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Bee/YellowBee.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Boar/BlackBoar.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Boar/BrownBoar.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Crab/BlueCrab.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Crab/RedCrab.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Duck/GreenDuck.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Duck/YellowDuck.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Flower/GreenFlower.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Frog/GreenFrog.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Frog/RedFrog.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Pig/BrownPig.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Pig/PinkPig.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Rat/BrownRat.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Rat/GreyRat.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Scorpion/RedScorpion.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Spider/PurpleSpider.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Spider/RedSpider.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Stump/BrownStump.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Stump/DarkStump.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Tortoise/GreenTortoise.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Wolf/BlackWolf.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack1/Wolf/BlueWolf.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Bush/GreenBush.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Bush/PurpleBush.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Deer/Deer.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Demigrif/GoldenDemigrif.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Demigrif/GreenDemigrif.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/HellDog/AbyssDog.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/HellDog/HellDog.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Jelly/BloodyJelly.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Jelly/GreenJelly.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Manticora/BlueManticora.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Manticora/RoyalManticora.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Mushroom/BrownMushroom.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Mushroom/PurpleMushroom.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Pumpkin/Pumpkin.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Salamandra/FireSalamandra.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Salamandra/GreenSalamandra.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Snake/GreenSnake.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Snake/YellowSnake.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Spider/BlackSpider.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Spider/BrownSpider.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Spirit/BlueSpirit.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Spirit/BrownSpirit.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Wolf/BrownWolf.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack2/Wolf/GreyWolf.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack3/Beholder/Beholder.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack3/Bird/Bird.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack3/Cube/Cube.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack3/Demon/Demon.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack3/EarthGolem/EarthGolem.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack3/Fairy/Fairy.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack3/FlameGolem/FlameGolem.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack3/FlyingEye/FlyingEye.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack3/IceGolem/IceGolem.asset from project
+Deleting Assets/PixelFantasy/PixelMonsters/Pack3/Squid/Squid.asset from project
+Deleting Assets/Sprites/Player.asset from project
+Deleting Assets/Sprites/SpriteSheet.asset from project
+Successfully replaced Example
+Successfully replaced SpriteLibrary
+Successfully replaced SpriteLibrary
+Successfully replaced SpriteLibrary
+Successfully replaced SpriteLibrary
+Successfully replaced SpriteAsset
+Successfully replaced SpriteLibrary
+Successfully replaced SpriteLibrary
+Successfully replaced SpriteAsset
+Successfully replaced SpriteLibrary
+Successfully replaced SpriteLibrary
+Successfully replaced SpriteLibrary
+Successfully replaced SpriteLibrary
+Successfully replaced SpriteLibrary
+Successfully replaced SpriteLibrary
+Successfully replaced SpriteLibrary
+Successfully replaced SpriteLibrary
+Successfully replaced SpriteLibrary
+Successfully replaced SpriteLibrary
+Successfully replaced SpriteLibrary
+Successfully replaced SpriteLibrary
+Successfully replaced SpriteLibrary
+Successfully replaced BlueDragon
+Successfully replaced GreenDragon
+Successfully replaced RedDragon
+Successfully replaced GreenMegaPumpkin
+Successfully replaced PurpleMegaPumpkin
+Successfully replaced YellowMegaPumpkin
+Successfully replaced GreenOgre
+Successfully replaced PurpleOgre
+Successfully replaced RedOgre
+Successfully replaced BlueRex
+Successfully replaced GreenRex
+Successfully replaced RedRex
+Successfully replaced BlackTroll
+Successfully replaced BlueTroll
+Successfully replaced GreenTroll
+Successfully replaced BlackWerewolf
+Successfully replaced BrownWerevolf
+Successfully replaced RedWerevolf
+Successfully replaced Barrel
+Successfully replaced Bookcase
+Successfully replaced Bucket
+Successfully replaced Coffin
+Successfully replaced Explosives
+Successfully replaced GoldenChestbox
+Successfully replaced Jug
+Successfully replaced LargeBarrel
+Successfully replaced LargeBox
+Successfully replaced MediumBox
+Successfully replaced Mimic
+Successfully replaced SilverChestbox
+Successfully replaced SmallBox
+Successfully replaced TombstoneA
+Successfully replaced TombstoneB
+Successfully replaced TombstoneC
+Successfully replaced Urn
+Successfully replaced Vase
+Successfully replaced WoodenChestbox
+Successfully replaced PurpleBat
+Successfully replaced BlackBear
+Successfully replaced BrownBear
+Successfully replaced YellowBee
+Successfully replaced BlackBoar
+Successfully replaced BrownBoar
+Successfully replaced BlueCrab
+Successfully replaced RedCrab
+Successfully replaced GreenDuck
+Successfully replaced YellowDuck
+Successfully replaced GreenFlower
+Successfully replaced GreenFrog
+Successfully replaced RedFrog
+Successfully replaced BrownPig
+Successfully replaced PinkPig
+Successfully replaced BrownRat
+Successfully replaced GreyRat
+Successfully replaced RedScorpion
+Successfully replaced PurpleSpider
+Successfully replaced RedSpider
+Successfully replaced BrownStump
+Successfully replaced DarkStump
+Successfully replaced GreenTortoise
+Successfully replaced BlackWolf
+Successfully replaced BlueWolf
+Successfully replaced GreenBush
+Successfully replaced PurpleBush
+Successfully replaced Deer
+Successfully replaced GoldenDemigrif
+Successfully replaced GreenDemigrif
+Successfully replaced AbyssDog
+Successfully replaced HellDog
+Successfully replaced BloodyJelly
+Successfully replaced GreenJelly
+Successfully replaced BlueManticora
+Successfully replaced RoyalManticora
+Successfully replaced BrownMushroom
+Successfully replaced PurpleMushroom
+Successfully replaced Pumpkin
+Successfully replaced FireSalamandra
+Successfully replaced GreenSalamandra
+Successfully replaced GreenSnake
+Successfully replaced YellowSnake
+Successfully replaced BlackSpider
+Successfully replaced BrownSpider
+Successfully replaced BlueSpirit
+Successfully replaced BrownSpirit
+Successfully replaced BrownWolf
+Successfully replaced GreyWolf
+Successfully replaced Beholder
+Successfully replaced Bird
+Successfully replaced Cube
+Successfully replaced Demon
+Successfully replaced EarthGolem
+Successfully replaced Fairy
+Successfully replaced FlameGolem
+Successfully replaced FlyingEye
+Successfully replaced IceGolem
+Successfully replaced Squid
+Successfully replaced Player
+Successfully replaced SpriteSheet
+

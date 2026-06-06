@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ef0b21da8728acc4fa969ae3848bd0a7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271664
+  packageName: 'Pixel Hero Maker [Megapack]'
+  packageVersion: 3.8
+  assetPath: Assets/PixelFantasy/PixelHeroes/MilitaryHeroes/Scripts/Editor/PackageUpdater.cs
+  uploadId: 827270

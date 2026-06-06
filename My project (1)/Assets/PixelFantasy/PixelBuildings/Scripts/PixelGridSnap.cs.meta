@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dfd88655327875e4aab01b45fd0bef0e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301516
+  packageName: Pixel Buildings
+  packageVersion: 1.0
+  assetPath: Assets/PixelFantasy/PixelBuildings/Scripts/PixelGridSnap.cs
+  uploadId: 705556
